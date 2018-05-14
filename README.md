@@ -13,7 +13,8 @@ has been used in place of white pixels
 //from java it can be use in processing or p5.js for more in depth computations and visualisations
 
 compilation and execution : (use full screen mode for visualisation)
-open command prompt
+in windows :
+open command prompt(note:https://sourceforge.net/projects/tdm-gcc/ --> link for tdm gcc compiler)
 1. type wmic and press enter
 2. make command prompt fullscreen
 3. type quit and press enter
