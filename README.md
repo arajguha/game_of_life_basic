@@ -2,7 +2,7 @@
 
 #purpose : to demonstrate the ease of simulating simple C.A based models
 
-#This project has been coded in C. Cchange system("cls") statement at the end of the code
+#This project has been coded in C. Change system("cls") statement at the end of the code
 to system("cls") to run in unix os.
 
 This project typically runs in the terminal. '#' character has been used in place of black pixels. " " (whitespace)
