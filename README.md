@@ -21,6 +21,6 @@ open command prompt
 5. <output_file_name> [NO_OF_ROWS] [NO_OF_COLS]
 
 for unix os :
-open terminalo
+open terminal
 1. gcc game_mod.c -o <outputfile_name>
 2. ./<output_file_name> [NO_OF_ROWS] [NO_OF_COLS]
