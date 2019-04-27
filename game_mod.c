@@ -119,6 +119,7 @@ void iterate(int** current_gen, int** next_gen, int ros, int cols){
 
 //Driver function
 void main(int argc, char* argv[]){
+	printf("\n enter 0 to start ");
 	srand(time(NULL));
 	
 	if(argc != 3){
