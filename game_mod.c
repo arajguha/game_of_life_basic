@@ -1,3 +1,5 @@
+// in runtime enter 0 to start the creation of generations
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
